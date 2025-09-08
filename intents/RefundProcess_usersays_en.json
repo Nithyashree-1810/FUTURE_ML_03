@@ -1,0 +1,54 @@
+[
+  {
+    "id": "f8ff048a-1c64-488a-9c6b-7e9bfabe9ef6",
+    "data": [
+      {
+        "text": "money not received",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f50cd290-9c4c-4fa3-9a31-9c8f0ef86743",
+    "data": [
+      {
+        "text": "when will I get my money back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "478de7bc-580d-475d-8cc2-fe03692d95d9",
+    "data": [
+      {
+        "text": "refund process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbe1d04b-2491-42c6-a048-d948ea9850b3",
+    "data": [
+      {
+        "text": "how to get a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

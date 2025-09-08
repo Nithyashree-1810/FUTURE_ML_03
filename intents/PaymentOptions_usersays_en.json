@@ -1,0 +1,67 @@
+[
+  {
+    "id": "9e63d869-e8e0-44b3-b29b-f150fffe7666",
+    "data": [
+      {
+        "text": "upi payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbdcfe1e-4732-47f3-98ac-0127af24beb0",
+    "data": [
+      {
+        "text": "credit card accepted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1d0cc6d-8cd7-4593-9562-65466a7c0871",
+    "data": [
+      {
+        "text": "can I pay online",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e13b8a49-8175-4ae1-8923-ee2adb2480b2",
+    "data": [
+      {
+        "text": "do you have cash on delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc8a59ac-2946-4338-9d45-fe549adf9f6e",
+    "data": [
+      {
+        "text": "what payment methods do you accept",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

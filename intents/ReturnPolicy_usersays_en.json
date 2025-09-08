@@ -1,0 +1,54 @@
+[
+  {
+    "id": "cb273c89-f860-4c60-a587-e267692ec29c",
+    "data": [
+      {
+        "text": "return period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff1e0717-9b92-4a8e-8430-3819b7194c07",
+    "data": [
+      {
+        "text": "can I get a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da036bd6-e7c9-46c9-82ec-b151f0a1d5b7",
+    "data": [
+      {
+        "text": "how to return a product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8210096e-a0e7-4e12-b00a-b7ea15ec4456",
+    "data": [
+      {
+        "text": "what is your return policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

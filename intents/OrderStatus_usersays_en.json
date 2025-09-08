@@ -1,0 +1,67 @@
+[
+  {
+    "id": "cb251442-92f5-4909-b7bc-bd5ae96f06f7",
+    "data": [
+      {
+        "text": "order delivery status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94aa8e25-8e8e-4ac2-a926-f2dc62eef5a8",
+    "data": [
+      {
+        "text": "order date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fba2e8d2-5dde-4d7c-8ca6-0d1a2bd13804",
+    "data": [
+      {
+        "text": "check order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec560ca9-698e-4040-a4e5-e4a079fd180d",
+    "data": [
+      {
+        "text": "track my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6f84537-8ba1-4ee2-b8fa-5e8f48452e56",
+    "data": [
+      {
+        "text": "where is my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

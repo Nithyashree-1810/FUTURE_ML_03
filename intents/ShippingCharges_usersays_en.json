@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d14739fe-1548-4e74-977d-39365c1b8056",
+    "data": [
+      {
+        "text": "shipping fee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "458fc3bd-1260-4803-9979-21ef092644a1",
+    "data": [
+      {
+        "text": "delivery cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f61f6007-9be7-4390-9507-5725e9097a83",
+    "data": [
+      {
+        "text": "do you have free delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0809b70-6421-407f-9107-403d71fea5f4",
+    "data": [
+      {
+        "text": "what are the shipping charges",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

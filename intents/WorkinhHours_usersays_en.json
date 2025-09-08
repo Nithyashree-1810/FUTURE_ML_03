@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c660c8de-6cf2-46cf-9c83-71fa03db251e",
+    "data": [
+      {
+        "text": "customer support hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f65c836-effe-402d-a8c5-4da04da47bec",
+    "data": [
+      {
+        "text": "business hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d673f70-05a0-404f-8a06-06817bc17816",
+    "data": [
+      {
+        "text": "when are you open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85f9b5e8-e22d-47fd-89dc-f76ec9594575",
+    "data": [
+      {
+        "text": "what are your working hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

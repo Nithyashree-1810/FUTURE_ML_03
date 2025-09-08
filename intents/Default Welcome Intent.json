@@ -1,0 +1,98 @@
+{
+  "id": "3ced53b3-89b5-45c1-bbfe-48cf5666d621",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d857e8a7-14e5-4d2e-b17e-cdc6ae6a9833",
+          "name": "user_name",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "value": "$user_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! 👋 I’m your virtual assistant. How can I help you today?",
+            "Hello there! 😊 What can I do for you?",
+            "Hey! 🙌 I’m here to help. Ask me anything.",
+            "Hi, welcome! 🚀 Do you want help with your order, refund, or something else?",
+            "Hello 👋 You can ask things like “Where is my order?” or “What’s your return policy?”",
+            "Hi there! I’m available 24/7. What do you want to know?",
+            "Greetings! ✨ How may I assist you today?",
+            "Hey! I can help with orders, policies, and support requests. What would you like?",
+            "Hi, $user_name 👋 Welcome to Quantabot! How can I help you today?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "text": "📦 Track Order",
+                      "callback_data": "track_order"
+                    },
+                    {
+                      "callback_data": "return_policy",
+                      "text": "🔄 Return Policy"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "💳 Payment Options",
+                      "callback_data": "payment_options"
+                    },
+                    {
+                      "text": "🎉 Offers",
+                      "callback_data": "offers"
+                    }
+                  ]
+                ]
+              },
+              "text": "Choose an option:"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

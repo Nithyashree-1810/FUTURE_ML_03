@@ -1,0 +1,54 @@
+[
+  {
+    "id": "79706195-e97b-4c95-9544-f165b01ebe1a",
+    "data": [
+      {
+        "text": "expected delivery date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bdefaac-e32c-4732-ad18-06f2750d33e0",
+    "data": [
+      {
+        "text": "delivery time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d833c3fc-5251-4cae-820c-d30f74342705",
+    "data": [
+      {
+        "text": "when will my order arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a60ab82-d647-484a-aa93-5d3a997139e8",
+    "data": [
+      {
+        "text": "how long does delivery take",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "8e99e54a-5340-417c-8c01-69877b81e055",
+    "data": [
+      {
+        "text": "need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cc643d4-3f88-4750-8333-b51e6337d37f",
+    "data": [
+      {
+        "text": "email support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae4cdc3d-0588-43a0-97cc-b393d553de1d",
+    "data": [
+      {
+        "text": "talk to a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10378a36-f572-4812-8fa5-57d07fb586f6",
+    "data": [
+      {
+        "text": "customer care number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e753bdb9-30d8-4d9b-936e-7bf32d87c997",
+    "data": [
+      {
+        "text": "how can I contact support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

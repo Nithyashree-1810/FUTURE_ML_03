@@ -1,0 +1,37 @@
+{
+  "id": "85510316-f36b-437a-ab04-0f8c05cebf8c",
+  "name": "ReturnPolicy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our return policy allows returns within 7 days of delivery.",
+            "Refunds will be processed within 3–5 business days after pickup.",
+            "Do you want me to guide you to the returns page?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

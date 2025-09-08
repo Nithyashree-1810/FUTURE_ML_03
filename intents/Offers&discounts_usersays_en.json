@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d9ded081-9289-4d17-99aa-b968ffbd6406",
+    "data": [
+      {
+        "text": "sale now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e626a12-511c-414a-8428-0da1016f7458",
+    "data": [
+      {
+        "text": "coupon code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06bb761a-5c47-4509-87e9-32d8e44f5ad0",
+    "data": [
+      {
+        "text": "discounts available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfe25eb7-7b3f-4910-908e-0a676a4b907f",
+    "data": [
+      {
+        "text": "do you have any offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "69861920-53a6-421b-bb5c-23af7a89b822",
+    "data": [
+      {
+        "text": "can I cancel a purchase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c79ffc0-2f3d-4cd2-b1cb-75127922ccce",
+    "data": [
+      {
+        "text": "stop my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e236f81-5895-49fd-a133-832750136519",
+    "data": [
+      {
+        "text": "cancel order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a79fafa5-3a45-4998-8bbd-c0b7636a3a21",
+    "data": [
+      {
+        "text": "how to cancel my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
